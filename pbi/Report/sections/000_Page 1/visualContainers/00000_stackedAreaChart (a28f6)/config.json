@@ -1,0 +1,19 @@
+{
+  "name": "a28f6cdf93e801925954",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 10,
+        "y": 290,
+        "width": 280,
+        "height": 280,
+        "z": 1
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "stackedAreaChart",
+    "drillFilterOtherVisuals": true
+  }
+}

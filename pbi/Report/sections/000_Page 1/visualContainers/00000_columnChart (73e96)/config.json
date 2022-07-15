@@ -1,0 +1,19 @@
+{
+  "name": "73e9692778b82a4baede",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 10,
+        "y": 0,
+        "width": 280,
+        "height": 280,
+        "z": 0
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "columnChart",
+    "drillFilterOtherVisuals": true
+  }
+}
